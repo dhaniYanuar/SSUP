@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="UMarker_SSUPVenueMapV2" size="50.000000 81.554878" />
+    <ImageTarget name="UMarker_SSUPVenueMap" size="50.000000 50.000000" />
+    <ImageTarget name="Marker6revisi" size="50.000000 50.000000" />
+    <ImageTarget name="Marker12revisi" size="50.000000 74.812027" />
+    <ImageTarget name="Marker11revisi" size="50.000000 50.313480" />
+    <ImageTarget name="Marker20" size="50.000000 50.107067" />
+    <ImageTarget name="Marker19" size="50.000000 50.116009" />
+    <ImageTarget name="Marker18" size="50.000000 47.767857" />
+    <ImageTarget name="Marker17" size="50.000000 50.000000" />
+    <ImageTarget name="Marker16" size="50.000000 49.781658" />
+    <ImageTarget name="Marker15" size="50.000000 49.230770" />
+    <ImageTarget name="Marker14" size="50.000000 49.783081" />
+    <ImageTarget name="Marker13" size="50.000000 49.890350" />
+    <ImageTarget name="Marker12" size="50.000000 51.968502" />
+    <ImageTarget name="Marker11" size="50.000000 52.546917" />
+    <ImageTarget name="Marker10" size="50.000000 52.406418" />
+    <ImageTarget name="Marker9" size="50.000000 52.406418" />
+    <ImageTarget name="Marker8" size="50.000000 52.570694" />
+    <ImageTarget name="Marker7" size="50.000000 52.190723" />
+    <ImageTarget name="Marker6" size="50.000000 51.908398" />
+    <ImageTarget name="Marker5" size="50.000000 49.329758" />
+    <ImageTarget name="Marker4" size="50.000000 52.925533" />
+    <ImageTarget name="Marker3" size="50.000000 52.135677" />
+    <ImageTarget name="Marker2" size="50.000000 52.538071" />
+    <ImageTarget name="Marker1" size="50.000000 52.480419" />
+  </Tracking>
+</QCARConfig>

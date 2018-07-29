@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="zine2" size="50.000000 70.914284" />
+    <ImageTarget name="zine1" size="50.000000 70.914284" />
+    <ImageTarget name="UMarker_SSUPVenueMapV4" size="50.000000 81.554878" />
+  </Tracking>
+</QCARConfig>
